@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+web_machine
+db.sqlite3
+/static
+.DS_Store
