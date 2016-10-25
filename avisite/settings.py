@@ -24,6 +24,8 @@ SECRET_KEY = '8)on$=scztch&f$e)9me)tvp@%+3igz&62s*l3v9c+w#b!6wi2'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
+#DEBUG = False
+
 
 ALLOWED_HOSTS = ['dextervp.pythonanywhere.com']
 
